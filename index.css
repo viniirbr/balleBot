@@ -35,6 +35,8 @@ strong {
     font-family: 'Sarala', sans-serif;
     color: #FFF2E7;
     padding: 10px 20px;
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
     transition: .5s all;
     text-decoration: none;
     text-align: center;
@@ -43,7 +45,6 @@ strong {
 .cabecalho__nav-item:hover {
     border-left: 1px solid #FFF2E7;
     border-right: 1px solid #FFF2E7;
-    padding: 10px 9px;
 }
 
 .principal {
